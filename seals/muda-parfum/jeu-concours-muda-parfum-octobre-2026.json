@@ -2,5 +2,11 @@
   "tenant": "muda-parfum",
   "giveaway": "jeu-concours-muda-parfum-octobre-2026",
   "serverSeedHash": "e1e82abebcdd1a6df95309b49ee75c0650f7b4d97d69a4e9b3cd0a816c9b5f74",
-  "drandRound": 33355612
+  "drandRound": 33355612,
+  "seal": {
+    "merkleRoot": "7c6ce86645c3dce2c0f1ffa0b26c1c214a513a0b536e43ae49ca56d1fef2fd32",
+    "poolSize": 250,
+    "sealRound": 33326812,
+    "sealedAt": "2026-10-23T19:30:01.148Z"
+  }
 }
